@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 import HeaderLanding from './components/LandingPage/HeaderLanding'
+import MainLanding from './components/LandingPage/MainLanding'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,6 +12,7 @@ function App() {
   return (
    <div>
      <HeaderLanding/>
+     <MainLanding/>
    </div>
   )
 }
