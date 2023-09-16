@@ -14,7 +14,7 @@ function MainLanding() {
       
       ]}
       wrapper="span"
-      speed={20}
+      speed={22}
       
       repeat={Infinity}
     /></span>
