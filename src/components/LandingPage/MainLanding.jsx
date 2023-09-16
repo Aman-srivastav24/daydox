@@ -20,7 +20,7 @@ function MainLanding() {
     /></span>
             </div>
             <div className='flex flex-col justify-center items-center md:flex-row '>
-                <img src={logo} alt="Daydox" srcset="" className='w-[280px] rounded-[40px] m-6' />
+                <img src={logo} alt="Daydox" srcset="" className='w-[280px] rounded-[39px] m-6' />
                 <div className='text-white font-mono px-8 m-8 w-[450px] md:w-[600px] text-[15px]'>
                 "Welcome to DayDox, your personal space for self-expression and reflection. Write and preserve your thoughts, memories, and experiences effortlessly. Explore self-discovery and stress relief through journaling. Start your personal diary journey today."</div>
             </div>
