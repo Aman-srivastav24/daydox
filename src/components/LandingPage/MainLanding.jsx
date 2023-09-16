@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 import logo from '../../assets/img/dd.png'
 function MainLanding() {
   return (
-    <div>
+    <div className=''>
         <div className='flex flex-col  w-[100%] text-center h-[100px] '>
             
             <span className='m-6 text-white  text-[25px]   md:text-[35px] font-mono'><TypeAnimation
